@@ -8,7 +8,7 @@
 如果需要帮忙加微信：<br>
 ![image](https://github.com/gaojinjin/OuchAnswer/blob/main/otherInfo/Add.jpg)<br>
 
-**如何高校刷视频**
+**如何高效刷视频**
 在刷*近平 以及思想政治的时候是不可以跳转到后台学习的，如何解决这个问题？
 当前我使用的是Google Chrome浏览器。
 F12 打开开发者工具
