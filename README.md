@@ -18,9 +18,9 @@ F12 打开开发者工具
 ![image](https://github.com/gaojinjin/OuchAnswer/blob/main/otherInfo/Chrome.png)<br>
 
 **16倍数播放视频**
-复制如下代码：
+复制如下代码：<br>
 document.querySelector('video').play(); 
 document.querySelector('video').playbackRate = 16.0;
-
+<br>
 在视频页面，按f12键 点控制台（Google Chrome浏览器）
 输入上面的代码，粘贴到console的空白处，点击回车,
