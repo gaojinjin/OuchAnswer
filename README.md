@@ -24,7 +24,7 @@ document.querySelector('video').playbackRate = 16.0;
 <br>
 在视频页面，按f12键 点控制台（Google Chrome浏览器）
 输入上面的代码，粘贴到console的空白处，点击回车,
-
+![image](https://github.com/gaojinjin/OuchAnswer/blob/main/otherInfo/VideoSpeed.png)<br>
 <br>
 <br>
 
